@@ -1,0 +1,26 @@
+diff --git a/sl.c b/sl.c
+index 90e8d2f..c38e54f 100644
+--- a/sl.c
++++ b/sl.c
+@@ -14,17 +14,9 @@
+ /*                                              by Chris Seymour  2014/01/03 */
+ /* sl version 5.00 : add -c option                                           */
+ /*
+- *
+- *
+- *
+- *
+- *
+- *
+- *
+- *
+- *
+- *
+- * */
++ /*------------------------------------------
++  * add more information for the example*
++  ------------------------------------------*/
+ #include<stdio.h>
+ #include<stdlib.h>
+ #include<math.h>
+/*-----------Add test script modification---------------*/
